@@ -13,4 +13,4 @@ Recentemente tirei um tempo para tocar alguns projetos paralelos e aprender nova
 * Também tem algumas [visualizações de dados aqui](https://moraessaur.github.io/portolio_viz/) e [nesse outro documento](https://moraessaur.github.io/misc_functions/) tenho colocado algumas funções que escrevi.
 * Recentemente tenho arriscado [aprender um pouco de Shiny também.]()
 
-Ademais, alguns outros recursos podem ser conferidos em meus repositórios públicos, estou no processo de subir mais coisas pouco a pouco :sweat_smile:
+Ademais, alguns outros recursos podem ser conferidos em meus repositórios públicos. Estou no processo de subir mais coisas pouco a pouco :sweat_smile:
