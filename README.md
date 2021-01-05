@@ -7,10 +7,3 @@ Sou um cientista, biólogo, atualmente prestando pequenas consultorias com anál
 * Sou apaixonado por análise e visualização de dados, usando principalmente R! (também sei um tanto de python e SQL).
 * Caso queira saber mais de mim, tenho um [pequeno site pessoal](https://lucasmoraes.io/), lá (ou aqui) também tem meu [CV](https://lucasmoraes.io/cv/) e links para outras redes (tudo feito no R, naturalmente).
 
-Recentemente tirei um tempo para tocar alguns projetos paralelos e aprender novas técnicas. Estou atualmente reestruturando meu github.
-
-* Se a ideia for olhar de cara um pouco do que sei de R, sugiro [essa pequena análise que fiz de plantas brasileiras.](https://moraessaur.github.io/flora2020_analysis/)
-* Também tem algumas [visualizações de dados aqui](https://moraessaur.github.io/portolio_viz/) e [nesse outro documento](https://moraessaur.github.io/misc_functions/) tenho colocado algumas funções que escrevi.
-* Recentemente tenho arriscado [aprender um pouco de Shiny também.](https://moraessaur.shinyapps.io/app_piloto/)
-
-Ademais, alguns outros recursos podem ser conferidos em meus repositórios públicos. Estou no processo de subir mais coisas pouco a pouco :sweat_smile:
