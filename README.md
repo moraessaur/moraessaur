@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------
 
-My name is Lucas, I am a data scientist from Brazil. I have a academic background in genetics (bioinformatics), but have experience working in several different initiatives, not exclusive to life sciences.
+My name is Lucas, I am a data scientist from Brazil. I have an academic background in genetics (bioinformatics), but have experience working in several different initiatives, not exclusive to life sciences.
 
 I have been using R, Python and data science tools since way back, when I began my [research using bayesian inference](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028297) in 2009.
 
