@@ -8,13 +8,13 @@ I have been using R, Python and data science tools since way back, when I began 
 
 A little bit of what I have been up to in recent years:
 
-* Currently I am a data scientist at [Melhor Envio](https://melhorenvio.com.br/). Here I work mainly with data driven metric enhancement, client segmentation and storytelling.
-
-* Before that I spent a couple of years doing freelance work helping people clean their data, run their analyses, process the outcome and wrap all up for publications or reports. This gave me some valuable soft skills (dealing with clients is an adventure).
-
-* As a "dual class" biologist and data scientist, I worked for five years at Brazil's National Centre for Flora Conservation. I did A LOT of different work here, which is hard to summarise. Probably my most important experience here was using data analysis to aid data driven decision making regarding threatened plant species. My R programming skills served in a "jack-of-all-trades" manner though.
+* Currently I am a data scientist at Carrefour. There I work mainly with supply forecasting for promotional events in stores across the country.
+* Before that I have worked at PicPay (a brazilian fintech) and Melhor Envio (a company that mediates logistics for small and medium e-commerce entrepreneurs).
+* In parallel I have been acting as an consultant to scientific projects, usually performing statistical analyses related to biological conservation projects. 
 
 * I have a Bachelors and Masters degree from the Federal University of Rio de Janeiro (UFRJ), in genetics.
   * The subject of the former was to understand spetiation events of Sotalia dolphins using molecular phylogenetics and bayesian inference.
   * For the latter, I compiled data from different sources in order to understand the evolutionary relationships and distinctness of brazilian plant lineages.
   * In both cases I relied heavily on computer programming and statistics.
+
+**I am currently reshaping my github page and its projects. It has been hard to keep it all updated with how busy my life currently is.**
