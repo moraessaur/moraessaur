@@ -1,3 +1,5 @@
+**I am currently reshaping my github page and its projects. It has been hard to keep it all updated with how busy my life currently is.**
+
 # **Hello, welcome to my github page :)**
 
 ------------------------------------------------------------------------
@@ -17,4 +19,4 @@ A little bit of what I have been up to in recent years:
   * For the latter, I compiled data from different sources in order to understand the evolutionary relationships and distinctness of brazilian plant lineages.
   * In both cases I relied heavily on computer programming and statistics.
 
-**I am currently reshaping my github page and its projects. It has been hard to keep it all updated with how busy my life currently is.**
+
